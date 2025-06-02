@@ -1,4 +1,4 @@
 # Brainwave
 Internship task
 <br>
-Author - Nikita Dhakar
+Author - Nikita (Brainwave project)
